@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar.jsx";
 import Dashboard from "./pages/dashboard.jsx";
-import Items from "./pages/Items.jsx";
+import Items from "./pages/items.jsx";
 
 export default function App() {
   return (
